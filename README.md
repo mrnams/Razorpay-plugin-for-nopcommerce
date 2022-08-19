@@ -1,2 +1,2 @@
-# -Razorpay-plugin-for-nopcommerce
+# Razorpay-plugin-for-nopcommerce
 nopCommerce Razorpay plugin
