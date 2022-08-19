@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Razorpay",
+  "SystemName": "Payments.Razorpay",
+  "Version": "1.26",
+  "SupportedVersions": [ "4.50" ],
+  "Author": "MrNams",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.Razorpay.dll",
+  "Description": "This plugin allows paying with Razorpay"
+}
